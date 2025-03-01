@@ -1,3 +1,6 @@
+# See the maintained version at [codeberg.org](https://codeberg.org/nothingbutlucas/anti_reverse_shell)
+---
+
 # anti_reverse_shell
 Script to detect or close possibles reverse shell's running on your system
 
